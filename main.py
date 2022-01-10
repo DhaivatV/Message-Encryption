@@ -61,7 +61,7 @@ tk.Button(master,
                                     sticky=tk.W,
                                     pady=4)
 tk.Button(master,
-          text='submit', command=show_key).grid(row=3,
+          text='Encode', command=show_key).grid(row=3,
                                                        column=1,
                                                        sticky=tk.W,
                                                        pady=4)
