@@ -18,7 +18,7 @@ This project is divided into two parts:
 
 * Clone the repository using :
 
-        $ https://github.com/DhaivatV/Message-Encryption.git
+        $ git clone https://github.com/DhaivatV/Message-Encryption.git
                 
 * Enter the directory using:
 
@@ -57,14 +57,24 @@ This project is divided into two parts:
   <br></br>
   
  ### Decoder
-
+<img align="left" alt="coding" width=400 src="https://github.com/DhaivatV/Message-Encryption/blob/main/Images/upload%203.png">
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
   
+ <img align="left" alt="coding" width=200 src="https://github.com/DhaivatV/Message-Encryption/blob/main/Images/upload%204.png">
 
 
-
-  
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
  
-
 ## Results
 
 * We have encrypted the message (Hello!! User) and a key is generated along with it.
