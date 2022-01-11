@@ -87,7 +87,7 @@ This project is divided into two parts:
 ## Author
 * Dhaivat Vipat
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Dhaivat Vipat](https://www.linkedin.com/in/dhaivat-vipat-0b20851b9/)
+
 
 ## Contribution 
 
